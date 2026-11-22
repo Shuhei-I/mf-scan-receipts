@@ -1,0 +1,16 @@
+node_modules/
+data/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+docs/account-item-template/*.csv
+docs/business-operator-template/*.csv
+レシート業務アプリ計画書.md
+receipts/
+exports/
+backups/
+*.sqlite
+*.sqlite-*
+.DS_Store
+Thumbs.db
